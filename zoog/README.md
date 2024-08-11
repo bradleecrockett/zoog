@@ -5,4 +5,5 @@ Create a drawing of a Zoog character using P5JS and the 4 primitive shapes that 
 For help watch the videos: 
 
 - Shapes: https://youtu.be/c3TeLi6Ns1E?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA 
-- Colors - https://www.youtube.com/watch?v=riiJTF5-N7c&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=5&pp=iAQB
+- Colors: https://www.youtube.com/watch?v=riiJTF5-N7c&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=5&pp=iAQB
+- P5JS Reference: https://p5js.org/reference 
