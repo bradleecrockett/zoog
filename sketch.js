@@ -10,5 +10,5 @@ function setup() {
 function draw() {
 	//This loop gets run over and over again
 	background(220);
-
+	// new stuff
 }
